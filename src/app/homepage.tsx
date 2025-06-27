@@ -1,4 +1,5 @@
-import Navbar from '@/component/Navbar'
+// @ts-ignore
+import Navbar from '@/components/Navbar'
 import Link from 'next/link'
 import React from 'react'
 

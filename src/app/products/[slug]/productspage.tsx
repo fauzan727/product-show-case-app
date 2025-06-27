@@ -1,6 +1,7 @@
 'use client'
 import { useEffect, useState } from 'react'
-import Navbar from '@/component/Navbar'
+// @ts-ignore
+import Navbar from '@/components/Navbar'
 import { useParams } from 'next/navigation'
 import React from 'react'
 
